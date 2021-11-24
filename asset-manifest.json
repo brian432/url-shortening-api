@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/url-shortening-api/static/css/main.4f6024f1.chunk.css",
+    "main.js": "/url-shortening-api/static/js/main.5a86e23c.chunk.js",
+    "main.js.map": "/url-shortening-api/static/js/main.5a86e23c.chunk.js.map",
+    "runtime-main.js": "/url-shortening-api/static/js/runtime-main.aecc777c.js",
+    "runtime-main.js.map": "/url-shortening-api/static/js/runtime-main.aecc777c.js.map",
+    "static/js/2.0616adb9.chunk.js": "/url-shortening-api/static/js/2.0616adb9.chunk.js",
+    "static/js/2.0616adb9.chunk.js.map": "/url-shortening-api/static/js/2.0616adb9.chunk.js.map",
+    "index.html": "/url-shortening-api/index.html",
+    "static/css/main.4f6024f1.chunk.css.map": "/url-shortening-api/static/css/main.4f6024f1.chunk.css.map",
+    "static/js/2.0616adb9.chunk.js.LICENSE.txt": "/url-shortening-api/static/js/2.0616adb9.chunk.js.LICENSE.txt",
+    "static/media/estilo.css": "/url-shortening-api/static/media/illustration-working.c9b5ef54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aecc777c.js",
+    "static/js/2.0616adb9.chunk.js",
+    "static/css/main.4f6024f1.chunk.css",
+    "static/js/main.5a86e23c.chunk.js"
+  ]
+}
