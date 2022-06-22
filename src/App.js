@@ -9,7 +9,7 @@ function App() {
     <div className="App width">
       <Header />
       <main className="paddinglr-10 width">
-        <h1>More than just shorter links</h1>
+        <h1>More </h1>
         <p>Build your brands recognition and get detailed insights
           on how your links are performing</p>
         <button className="button get-started cursor">Get Started</button>
