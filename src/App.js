@@ -17,7 +17,7 @@ function App() {
       <Form />
       <SectionStatics />
       <section id="boost">
-        <h2>Boost your links today</h2>
+        <h2>Boost your</h2>
         <button className="button get-started cursor">Get Started</button>
       </section>
       <Footer />
