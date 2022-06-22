@@ -10,8 +10,8 @@ function App() {
       <Header />
       <main className="paddinglr-10 width">
         <h1>More than just shorter links</h1>
-        <p>Build your brand’s recognition and get detailed insights
-          on how your links are performing.</p>
+        <p>Build your brands recognition and get detailed insights
+          on how your links are performing</p>
         <button className="button get-started cursor">Get Started</button>
       </main>
       <Form />
